@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tharun Panagoda 👋
+# Tharun Panagoda 
 
 **Computer Security Undergraduate** · BSc (Hons) Computer Security, University of Plymouth — delivered at NSBM Green University
 
